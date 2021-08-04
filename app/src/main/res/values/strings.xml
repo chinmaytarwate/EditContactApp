@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Contacts</string>
+    <string name="welcome">Welcome to CS 478</string>
+    <string name="button_1">Contact Name</string>
+    <string name="button_2">Edit Contact</string>
+    <string name="title"> Enter Name(First name and Last name)</string>
+</resources>
